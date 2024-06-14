@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "D49C",
+    "title": "The Odyssey",
+    "author": "Homer",
+    "priceInCents": 1150,
+    "inStock": true,
+    "genre": "Epic"
+  },
+  {
+    "id": "D49C",
+    "title": "The Odyssey",
+    "author": "Homer",
+    "priceInCents": 1150,
+    "inStock": true,
+    "genre": "Epic"
+  }
+]

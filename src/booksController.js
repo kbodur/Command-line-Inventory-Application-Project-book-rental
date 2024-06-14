@@ -1,6 +1,7 @@
 const { nanoid } = require("nanoid");
 const Table = require('cli-table');
 const inform = console.log;
+let cart = [];
 
 function create(books, title, author, priceInCents, inStock, genre) {
   const book = {
