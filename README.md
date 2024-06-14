@@ -1,4 +1,4 @@
-# Command-line-Inventory-Application-Project-book-rental
+# Command-line-Inventory-Application-Project-bookstore
 
 # Rana Bookstore
 
