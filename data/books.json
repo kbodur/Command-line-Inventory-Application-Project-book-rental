@@ -1,0 +1,218 @@
+[
+  {
+    "id": "kZsf",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "priceInCents": 999,
+    "inStock": true,
+    "genre": "Classic"
+  },
+  {
+    "id": "oYyh",
+    "title": "1984",
+    "author": "George Orwell",
+    "priceInCents": 1099,
+    "inStock": true,
+    "genre": "Dystopian"
+  },
+  {
+    "id": "SjwC",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "priceInCents": 899,
+    "inStock": false,
+    "genre": "Classic"
+  },
+  {
+    "id": "3TtV",
+    "title": "The Richest Man in Babylon",
+    "author": "Samuel Clason",
+    "priceInCents": 1000,
+    "inStock": true,
+    "genre": "Self-Help"
+  },
+  {
+    "id": "f7Vw",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "priceInCents": 799,
+    "inStock": true,
+    "genre": "Fantasy"
+  },
+  {
+    "id": "9xAO",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "priceInCents": 799,
+    "inStock": true,
+    "genre": "Fantasy"
+  },
+  {
+    "id": "nxJn",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "priceInCents": 799,
+    "inStock": true,
+    "genre": "Fantasy"
+  },
+  {
+    "id": "bdb6",
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "priceInCents": 999,
+    "inStock": true,
+    "genre": "Fantasy"
+  },
+  {
+    "id": "CLm4",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "priceInCents": 999,
+    "inStock": true,
+    "genre": "Fantasy"
+  },
+  {
+    "id": "mX2-",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "priceInCents": 999,
+    "inStock": true,
+    "genre": "Fantasy"
+  },
+  {
+    "id": "pDKo",
+    "title": "Harry Potter and the Deathly Hallows",
+    "author": "J.K. Rowling",
+    "priceInCents": 999,
+    "inStock": true,
+    "genre": "Fantasy"
+  },
+  {
+    "id": "eNCb",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "priceInCents": 699,
+    "inStock": true,
+    "genre": "Romance"
+  },
+  {
+    "id": "UuiU",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "priceInCents": 850,
+    "inStock": true,
+    "genre": "Classic"
+  },
+  {
+    "id": "85R3",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "priceInCents": 950,
+    "inStock": true,
+    "genre": "Fantasy"
+  },
+  {
+    "id": "JyOc",
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "priceInCents": 1099,
+    "inStock": true,
+    "genre": "Adventure"
+  },
+  {
+    "id": "m3hA",
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "priceInCents": 1200,
+    "inStock": true,
+    "genre": "Historical"
+  },
+  {
+    "id": "-tec",
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "priceInCents": 1150,
+    "inStock": true,
+    "genre": "Philosophical"
+  },
+  {
+    "id": "jdnx",
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "priceInCents": 700,
+    "inStock": true,
+    "genre": "Adventure"
+  },
+  {
+    "id": "zAp1",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "priceInCents": 850,
+    "inStock": true,
+    "genre": "Fiction"
+  },
+  {
+    "id": "1E0W",
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "priceInCents": 1250,
+    "inStock": true,
+    "genre": "Philosophical"
+  },
+  {
+    "id": "JVG-",
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "priceInCents": 1100,
+    "inStock": true,
+    "genre": "Epic"
+  },
+  {
+    "id": "tYHN",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "priceInCents": 950,
+    "inStock": true,
+    "genre": "Dystopian"
+  },
+  {
+    "id": "xS9L",
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "priceInCents": 1300,
+    "inStock": true,
+    "genre": "Romance"
+  },
+  {
+    "id": "b9q6",
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "priceInCents": 1050,
+    "inStock": true,
+    "genre": "Magical Realism"
+  },
+  {
+    "id": "D49C",
+    "title": "The Odyssey",
+    "author": "Homer",
+    "priceInCents": 1150,
+    "inStock": true,
+    "genre": "Epic"
+  },
+  {
+    "id": "E8oJ",
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "priceInCents": 1400,
+    "inStock": true,
+    "genre": "Modernist"
+  },
+  {
+    "id": "s1pa",
+    "title": "The Iliad",
+    "author": "Homer",
+    "priceInCents": 1150,
+    "inStock": true,
+    "genre": "Epic"
+  }
+]
